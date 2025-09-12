@@ -8,3 +8,7 @@
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: 3em;
 }
+body {
+  background-color: #000000; /* pure black */
+  color: #aaaaaa; /* soft grey text instead of harsh white */
+}
